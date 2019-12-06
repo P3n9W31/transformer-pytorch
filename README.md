@@ -5,7 +5,7 @@ Transformer model for Chinese-English translation
 ## Basic architecture
 
 <p align="center">
-<img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/architecture.png" width="500">
+<img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/architecture.png" width="300">
 </p>
 
 > Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[C] Advances in neural information processing systems. 2017: 5998-6008.
@@ -43,7 +43,7 @@ tensorboardX==1.9
 Easily, you can install all requirement with:
 
 ```
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
@@ -103,7 +103,7 @@ The evaluation metric for Chinese-English we use is case-insensitive BLEU. We us
 Result on tensorboard:
 
 <p align="center">
-<img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/result.jpg" width="600">
+<img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/result.jpg" width="700">
 </p>
 
 As the data is too simple, the results are **just a reference**.
