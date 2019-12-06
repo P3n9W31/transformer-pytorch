@@ -6,6 +6,8 @@ Transformer model for Chinese-English translation
 
 <p align="center">
 <img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/architecture.png" width="300">
+<img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/attn.png" width="300">
+<img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/mh_attn.png" width="300">
 </p>
 
 > Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[C] Advances in neural information processing systems. 2017: 5998-6008.
