@@ -2,7 +2,7 @@
 
 Transformer model for Chinese-English translation
 
-## Basic architecture
+## Basic Architecture
 
 <p align="center">
 <img src="https://github.com/P3n9W31/transformer-pytorch/blob/master/figures/architecture.png" width="300">
